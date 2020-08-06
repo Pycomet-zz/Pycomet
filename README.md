@@ -1,4 +1,4 @@
-### Hi there 👋, I am Alfred Emmanuel 🇳🇬
+### Hi there 👋, I am Codefred 🇳🇬
 
 Being a problem solver, I design useful and beautiful business solutions.
 

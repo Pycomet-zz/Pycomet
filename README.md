@@ -1,4 +1,4 @@
-## Hi there 👋, I am Codefred 🇳🇬
+## Hi there 👋, I'm Codefred 🇳🇬
 
 Being a problem solver, I design useful and beautiful business solutions.
 

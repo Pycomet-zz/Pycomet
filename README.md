@@ -1,8 +1,8 @@
-### Hi there 👋, I am Codefred 🇳🇬
+## Hi there 👋, I am Codefred 🇳🇬
 
 Being a problem solver, I design useful and beautiful business solutions.
 
-## Useful Links
+### Useful Links
 
 <ul>
   <li><a href="https://www.codefred.me">Website</a></li>
